@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+.header {
+	border: 2px solid black;
+	text-align: center;
+	background-color: black;
+	padding: 25px;
+	
+	
+	
+}
+.header h1 {
+	color:white;
+}
+.menu{
+	list-style-type: none;
+	padding: 10px;
+	text-align: left;
+
+
+}
+.menu li {
+	padding: 3px;
+}
+.menu li a {
+	text-decoration: none;
+}
